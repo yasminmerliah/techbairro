@@ -1,0 +1,17 @@
+TechBairro ____3.2.1_
+Requisitos
+- Python 3 (testado com Python _3.12.0____ no _windows____)
+- Nenhuma biblioteca extra: usa apenas tkinter_, __sqlite3___ e _os do python____,
+que já vêm com o Python
+- No Linux pode ser preciso instalar o Tkinter: sudo apt install python
+3-tk
+Como executar
+1. Extraia o arquivo TechBairro-_3.2.1____.zip
+2. Abra um terminal dentro da pasta TechBairro-___3.2.1__
+3. Execute: python techbairro.py
+Dados
+- Na primeira execução, o arquivo __techbairro.db___ é criado vazio na mesma pasta.
+- Faça cópias desse arquivo para não perder os clientes cadastrados.
+Histórico do código
+O projeto usa Git. Para ver o histórico, rode na pasta do projeto:
+git log --oneline

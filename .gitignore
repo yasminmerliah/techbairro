@@ -1,0 +1,22 @@
+# Banco de dados local: muda a cada uso e guarda dados pessoais de clientes (LGPD)
+techbairro.db
+
+# Arquivos que o Python gera sozinho
+__pycache__/
+*.pyc
+# =========================================================
+# .gitignore da TechBairro (Aula 24)
+# =========================================================
+
+# Banco de dados com os dados pessoais dos clientes (LGPD)
+techbairro.db
+
+# Pasta que o Python gera sozinho ao importar os módulos
+__pycache__/
+
+# Arquivos compilados do Python
+*.pyc
+
+# Pacotes .zip gerados pelo gerar_pacote.py (Aula 18)
+dist/
+

@@ -1,5 +1,7 @@
 # Changelog da TechBairro
-
+## Em desenvolvimento
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
 # TechBairro
 ## v__3.2.1___ (Aula 18)
 ### Alterado

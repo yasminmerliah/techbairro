@@ -1,4 +1,6 @@
 # Changelog da TechBairro
+
+
 ## Em desenvolvimento
 ### Adicionado
 - Código publicado no GitHub, com histórico de versões.
@@ -58,3 +60,10 @@
 - Excluir avisa quando o cliente já foi removido em outra janela
  
 - Porque a gente adicionar funcionalidades novas, a gente corrigiu erros, mas tambem  aumentamos o número do meio (MINOR) não o último (PATCH).
+
+## v3.3.2 (Aula 27)
+### Adicionado
+- README completo com instalação e uso
+- Arquivo requirements.txt
+- Manual de uso em docs/manual_de_uso.md
+- Registro de testes em docs/registro_de_testes.md
